@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A National Geographic Gem - Cli Project For Flatiron School"
-date:       2020-07-31 14:40:59 +0000
+date:       2020-07-31 10:41:00 -0400
 permalink:  a_national_geographic_gem_-_cli_project_for_flatiron_school
 ---
 
